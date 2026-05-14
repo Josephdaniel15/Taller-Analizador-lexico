@@ -1,6 +1,8 @@
+import java.util.Scanner;
+
 public class tallerClase {
     public static void main(String[] args) {
-        
+        System.out.println("Probemos a ver si es comentario: ");
     }
    public boolean esComentario(String palabraVer) {
         // ver si está vacío o no tiene los caracteres necesarios
